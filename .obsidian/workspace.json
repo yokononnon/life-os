@@ -11,14 +11,10 @@
             "id": "ed5a9aa2f9e1a764",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "1. Jornal/1. Diary/2026-06/2026-06-30.md",
-                "mode": "source",
-                "source": false
-              },
+              "type": "empty",
+              "state": {},
               "icon": "lucide-file",
-              "title": "2026-06-30"
+              "title": "新規タブ"
             }
           }
         ]
@@ -94,7 +90,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Jornal/1. Diary/2026-06/2026-06-30.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +99,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-06-30へのバックリンク"
+              "title": "バックリンク"
             }
           },
           {
@@ -155,13 +150,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Jornal/1. Diary/2026-06/2026-06-30.md",
+                "file": "無題のファイル 1.base",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-06-30のアウトライン"
+              "title": "無題のファイル 1のアウトライン"
             }
           }
         ],
@@ -184,9 +179,10 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "ed5a9aa2f9e1a764",
+  "active": "72ae0eba07797e94",
   "lastOpenFiles": [
     "無題のファイル.base",
+    "無題のファイル 1.base",
     "1. Jornal/1. Diary/2026-06/2026-06-30.md",
     "2. Personal/1. 資産形成",
     "2. Personal",
@@ -194,7 +190,6 @@
     "1. Jornal/1. Diary/2026-06/2026-06-01.md",
     "1. Jornal/1. Diary/2026-05/2026-05-30.md",
     "1. Jornal/1. Diary/2026-06",
-    "1. Jornal/1. Diary/2026-05",
-    "無題のファイル 1.base"
+    "1. Jornal/1. Diary/2026-05"
   ]
 }
