@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "99. SecondMe/0.Rules/0. SystemPrompt.md",
+                "file": "90.  Tips/GitHub関連/GitHub・Obsidian接続復旧方法.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0. SystemPrompt"
+              "title": "GitHub・Obsidian接続復旧方法"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "99. SecondMe/0.Rules/0. SystemPrompt.md",
+                "file": "90.  Tips/GitHub関連/GitHub・Obsidian接続復旧方法.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "0. SystemPromptへのバックリンク"
+              "title": "GitHub・Obsidian接続復旧方法へのバックリンク"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "99. SecondMe/0.Rules/0. SystemPrompt.md",
+                "file": "90.  Tips/GitHub関連/GitHub・Obsidian接続復旧方法.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "0. SystemPromptのアウトライン"
+              "title": "GitHub・Obsidian接続復旧方法のアウトライン"
             }
           }
         ],
@@ -184,10 +184,13 @@
       "bases:新規ベースを作成": false
     }
   },
-  "active": "ed5a9aa2f9e1a764",
+  "active": "72ae0eba07797e94",
   "lastOpenFiles": [
-    "99. SecondMe/README.md",
+    "90.  Tips/GitHub関連",
     "99. SecondMe/0.Rules/0. SystemPrompt.md",
+    "90.  Tips/GitHub関連/GitHub・Obsidian接続復旧方法.md",
+    "90.  Tips",
+    "99. SecondMe/README.md",
     "99. SecondMe/0.Rules",
     "1. Jornal/README.md",
     "99. SecondMe",
@@ -205,7 +208,6 @@
     "0. System",
     "1. Jornal/1. Diary/2026-06/2026-06-01.md",
     "1. Jornal/1. Diary/2026-05/2026-05-30.md",
-    "1. Jornal/1. Diary/2026-06",
-    "1. Jornal/1. Diary/2026-05"
+    "1. Jornal/1. Diary/2026-06"
   ]
 }
