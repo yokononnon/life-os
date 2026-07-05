@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "1. Jornal/1. Diary/2026-07/2026-07-01.md",
+                "file": "1. Jornal/2. WeekReview/2026-06-29~2026-07-05.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-07-01"
+              "title": "2026-06-29~2026-07-05"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "1. Jornal/1. Diary/2026-07/2026-07-01.md",
+                "file": "1. Jornal/2. WeekReview/2026-06-29~2026-07-05.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "2026-07-01へのバックリンク"
+              "title": "2026-06-29~2026-07-05へのバックリンク"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "1. Jornal/1. Diary/2026-07/2026-07-01.md",
+                "file": "1. Jornal/2. WeekReview/2026-06-29~2026-07-05.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "2026-07-01のアウトライン"
+              "title": "2026-06-29~2026-07-05のアウトライン"
             }
           }
         ],
@@ -186,7 +186,10 @@
   },
   "active": "ed5a9aa2f9e1a764",
   "lastOpenFiles": [
+    "1. Jornal/2. WeekReview/2026-05-30~2026-06-06.md",
+    "1. Jornal/2. WeekReview/2026-06-29~2026-07-05.md",
     "1. Jornal/1. Diary/2026-07/2026-07-05.md",
+    "1. Jornal/1. Diary/2026-07/2026-07-01.md",
     "90.  Tips/GitHub関連/GitHub・Obsidian接続復旧方法.md",
     "90.  Tips/GitHub関連",
     "99. SecondMe/0.Rules/0. SystemPrompt.md",
@@ -195,7 +198,6 @@
     "99. SecondMe/0.Rules",
     "1. Jornal/README.md",
     "99. SecondMe",
-    "1. Jornal/1. Diary/2026-07/2026-07-01.md",
     "README.md",
     "無題のファイル.base",
     "1. Jornal/1. Diary/2026-07/2026-07-03.md",
