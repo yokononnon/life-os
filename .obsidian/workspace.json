@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "2. Personal/2. 一人暮らし/3.1 理想のお部屋（全体方針）.md",
+                "file": "1. Jornal/1. Diary/2026-07/2026-07-18.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "3.1 理想のお部屋（全体方針）"
+              "title": "2026-07-18"
             }
           }
         ]
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "2. Personal/2. 一人暮らし/3.1 理想のお部屋（全体方針）.md",
+                "file": "1. Jornal/1. Diary/2026-07/2026-07-18.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "3.1 理想のお部屋（全体方針）へのバックリンク"
+              "title": "2026-07-18へのバックリンク"
             }
           },
           {
@@ -155,13 +155,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "2. Personal/2. 一人暮らし/3.1 理想のお部屋（全体方針）.md",
+                "file": "1. Jornal/1. Diary/2026-07/2026-07-18.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "3.1 理想のお部屋（全体方針）のアウトライン"
+              "title": "2026-07-18のアウトライン"
             }
           }
         ],
@@ -186,17 +186,18 @@
   },
   "active": "ed5a9aa2f9e1a764",
   "lastOpenFiles": [
-    "2. Personal/2. 一人暮らし/3. 理想のお部屋.md",
+    "1. Jornal/1. Diary/2026-07/2026-07-14.md",
+    "1. Jornal/1. Diary/2026-07/2026-07-18.md",
+    "1. Jornal/1. Diary/2026-07/2026-07-19.md",
     "2. Personal/2. 一人暮らし/3.1 理想のお部屋（全体方針）.md",
+    "2. Personal/2. 一人暮らし/3. 理想のお部屋.md",
     "2. Personal/2. 一人暮らし/README.md",
     "2. Personal/2. 一人暮らし/2. 理想の一日.md",
     "2. Personal/2. 一人暮らし/1. コンセプト.md",
-    "1. Jornal/1. Diary/2026-07/2026-07-18.md",
     "2. Personal/2. 一人暮らし",
     "1. Jornal/1. Diary/2026-07/2026-07-17.md",
     "1. Jornal/1. Diary/2026-07/2026-07-16.md",
     "1. Jornal/1. Diary/2026-07/2026-07-15.md",
-    "1. Jornal/1. Diary/2026-07/2026-07-14.md",
     "1. Jornal/1. Diary/2026-07/2026-07-13.md",
     "1. Jornal/1. Diary/2026-07/2026-07-12.md",
     "1. Jornal/1. Diary/2026-07/2026-07-11.md",
@@ -214,7 +215,6 @@
     "90.  Tips/GitHub関連",
     "99. SecondMe/0.Rules/0. SystemPrompt.md",
     "90.  Tips",
-    "99. SecondMe/README.md",
     "99. SecondMe/0.Rules",
     "99. SecondMe",
     "無題のファイル.base",
